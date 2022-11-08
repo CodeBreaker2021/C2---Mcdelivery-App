@@ -1,0 +1,7 @@
+*Take Note*
+
+1. Update the files in USB & Desktop to the relavent folders before starting
+    1.1. USB:
+        1.1.1. USB Drive (F:) -> 2022 JS Projects -> C2 - Mcdelivery App
+    1.2. Desktop:
+        1.1.2. This PC -> Desktop -> 2022 JS Projects -> C2 - Mcdelivery App
